@@ -1,3 +1,3 @@
 # LEETCODE-75
-Daily challenge
+## Daily challenge
 ## solved 2/75
